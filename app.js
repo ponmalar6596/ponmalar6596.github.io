@@ -12,8 +12,10 @@ console.log(x);*/
 var x=a1.concat(a2);                //concat
 console.log(x); */
 /*console.log(a.indexOf(5)); */     //indexof
-var x;
+/*var x;
 x=a.toString();                      //string
-console.log(x);
+console.log(x);*/
+/*delete a[1];
+console.log(a);   */                   //delete
 
 
