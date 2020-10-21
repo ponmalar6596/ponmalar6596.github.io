@@ -28,7 +28,10 @@ function add(item)
 }*/
 /*var i=a.sort();
 console.log(i); */                //sort
-var x;
+/*var x;
 x=a.lastIndexOf(2);                      //string
+console.log(x);*/
+var x;
+x=a.includes(7,3);                      //string
 console.log(x);
 
