@@ -17,5 +17,7 @@ x=a.toString();                      //string
 console.log(x);*/
 /*delete a[1];
 console.log(a);   */                   //delete
+var x=a.valueOf();
+console.log(x);
 
 
