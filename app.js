@@ -1,4 +1,4 @@
-var a=[1,5,6,7,9];
+var a=[1,5,2,7,9];
 /*var x;
 x=a.reverse();                    //reverse
 console.log(a);*/
@@ -17,7 +17,15 @@ x=a.toString();                      //string
 console.log(x);*/
 /*delete a[1];
 console.log(a);   */                   //delete
-var x=a.valueOf();
-console.log(x);
+/*var x=a.valueOf();                    //valueof
+console.log(x); */
+/*var i=a.map(add);
+function add(item);
+{
+    item.add
+    console.log();
 
+}*/
+var i=a.sort();
+console.log(i);                 //sort
 
