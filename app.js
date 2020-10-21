@@ -34,9 +34,18 @@ console.log(x);*/
 /*var x;
 x=a.includes(7,3);                      //includes
 console.log(x);*/
-var x=10,y=20,a;
+/*var x=10,y=20,a;
 a=x;
-x=y;
+x=y;                                       //swap
 y=a;
-console.log(x,y);
+console.log(x,y);*/
+/*a.push(5);                                //push
+console.log(a);*/
+/*a.pop();                                //pop
+console.log(a);*/
+/*a.shift();                                //remove first
+console.log(a);*/
+a.unshift(15);                                //add  value  first item
+console.log(a);
+
 
