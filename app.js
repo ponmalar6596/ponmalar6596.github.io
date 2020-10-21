@@ -31,7 +31,12 @@ console.log(i); */                //sort
 /*var x;
 x=a.lastIndexOf(2);                      //string
 console.log(x);*/
-var x;
-x=a.includes(7,3);                      //string
-console.log(x);
+/*var x;
+x=a.includes(7,3);                      //includes
+console.log(x);*/
+var x=10,y=20,a;
+a=x;
+x=y;
+y=a;
+console.log(x,y);
 
