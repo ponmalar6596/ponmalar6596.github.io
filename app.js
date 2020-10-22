@@ -1,4 +1,4 @@
-var a=[1,5,2,7,2];
+/*var a=[1,5,2,7,2];*/
 /*var x;
 x=a.reverse();                    //reverse
 console.log(a);*/
@@ -44,8 +44,15 @@ console.log(a);*/
 /*a.pop();                                //pop
 console.log(a);*/
 /*a.shift();                                //remove first
+/*a.unshift(15);                                //add  value  first item
 console.log(a);*/
-a.unshift(15);                                //add  value  first item
-console.log(a);
-
+var i=0,s=1,x=15;
+while(i!=x)
+{
+    s=s*2;
+    s=s+1
+    i++;
+   
+}
+console.log(s);
 
